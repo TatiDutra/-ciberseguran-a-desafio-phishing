@@ -20,12 +20,4 @@
 * Obtendo o endereço da máquina: ifconfig
 * URL para clonar: http://www.facebook.com
 
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-1. Item 3a
-2. Item 3b
-
 ## Resultados
