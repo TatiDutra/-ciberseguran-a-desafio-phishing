@@ -29,4 +29,4 @@
 
 > Tentei diversas vezes passo a passo conforme as instruções do professor sem sucesso para obter o resultado esperado.
 > Colei a imagem da página de login que abre normalmente, mas não direciona para a página verdadeira como o Cassiano mostrou.
-> Se for possível poderia publicar uma nota passando a orientação de onde está o erro? Obrigada.
+> Se for possível, poderia publicar uma nota informando onde está ocorrendo o erro? Muito obrigada.
